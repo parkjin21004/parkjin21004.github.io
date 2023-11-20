@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-		<link href="https://fonts.google.com/noto/specimen/Noto+Sans+KR" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="style.css">
 		<meta charset="utf-8">
 		<title>Hyeonjin Park</title>
 	</head>
@@ -9,21 +9,33 @@
 		<div id="root">
 			<section id="info">
 				<h1>Hyeonjin Park</h1>
-				<img src="./assets/my_photo.jpeg" style="width: 170px; margin: 0 auto;">
+				<img src="./assets/my_photo.JPG" style="width: 200px; margin: 0 auto;">
 				<p>
 					Sophomore in SungKyunKwan Univ.
 				</p>
-				<br>
-				<a href="mailto: parkjin21004@g.skku.edu">parkjin21004@g.skku.edu</a>
-				<a href="https://github.com/parkjin21004">parkjin21004</a>
+				<h3>Contact</h3>
+				<ul class="contact-list">
+					<li>
+						<img src="./assets/email-mark.svg">
+						<a href="mailto: parkjin21004@g.skku.edu">parkjin21004@g.skku.edu</a>
+					</li>
+					<li>
+						<img src="./assets/github-mark.svg">
+						<a href="https://github.com/parkjin21004">parkjin21004</a>
+					</li>
+				</ul>
 			</section>
 			<section id="content">
 				<h2>About me</h2>
 				<p>
 					Hello, I'm a self-motivated and concentrated undergraduate eagering to develop a user-interactive application and optimize the program with excellent knowledge of programming languages and computer systems.
 				</p>
+				<hr>
 				<h2>Intersts</h2>
 				<ul>
+					<li>
+						Computer System and Architecture
+					</li>
 					<li>
 						Cybersecurity on Computer System
 					</li>
@@ -31,12 +43,57 @@
 						Competitive Programming
 					</li>
 				</ul>
+				<hr>
 				<h2>Education</h2>
-				<h3>SKKU, B.Sc., Computer Science and Engineering</h3>
-				<p>
-					Feb, 2022-
-				</p>
+				<div class="edu-div">
+					<h3>SKKU, B.Sc., Computer Science and Engineering</h3>
+					<p>
+						Feb, 2022-
+					</p>
+				</div>
+				<hr>
+				<h2>Skills</h2>
+				<div class="progress-div">
+					<div class="progress">
+						<p class="skill-name">
+							C/C++
+						</p>
+						<div class="progress-bar-back">
+							<div class="progress-bar" style="width: 85%;" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+						</div>
+					</div>
+					<div class="progress">
+						<p class="skill-name">
+							JAVA
+						</p>
+						<div class="progress-bar-back">
+							<div class="progress-bar" style="width: 65%;" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+						</div>
+					</div>
+					<div class="progress">
+						<p class="skill-name">
+							HTML/CSS
+						</p>
+						<div class="progress-bar-back">
+							<div class="progress-bar" style="width: 35%;" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100"></div>
+						</div>
+					</div>
+					<div class="progress">
+            <p class="skill-name">
+            	Cybersecurity
+            </p>
+            <div class="progress-bar-back">
+							<div class="progress-bar" style="width: 45%;" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100"></div>
+          	</div>
+					</div>	
+					<div class="progress-meter">
+						<div class="meter"><span class="meter-text">Basics</span></div>
+						<div class="meter"><span class="meter-text">Medium</span></div>
+   					<div class="meter"><span class="meter-text">High</span></div>
+						<div class="meter"><span class="meter-text">Master</span></div>
+					</div>
+				</div>	
 			</section>
 		</div>			
 	</body>
-</html>
+</html>	
