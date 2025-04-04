@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"></script>
+    <link rel = "stylesheet" href="style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+    <title>Document</title>
+</head>
+<body>
+    <canvas id="waves-bg"></canvas>
+  
+    <main class="main-content">
+        <div class="center-content">
+            <form id="login-form" class="fade-hidden fade-transition">
+            <input
+                required
+                maxlength="15"
+                type="text"
+                placeholder="What is your name?"
+            />
+            </form>
+            <h1 id="greeting" class="fade-transition fade-hidden"></h1>
+            <h2 id="clock"></h2>
+        </div>
+        <div id="quote">
+            <span></span>
+            <br />
+            <span></span>
+        </div>
+    </main>
+  
+    <aside class="todo-panel">
+        <div class="todo-center">
+            <div class="todo-list">
+                <h1>TODOs</h1>
+                <ul id="todos"></ul>
+            </div>
+            <div class="todo-form-container">
+                <form id="todo-form">
+                    <input
+                        required
+                        type="text"
+                        placeholder="To do?"
+                    />
+                    <button type="submit">+</button>
+                </form>
+            </div>
+        </div>
+    </aside>
+    <button class="todo-toggle" aria-label="¿­±â/´Ý±â"><i class="fas fa-chevron-left toggle-icon"></i></button>
+  
+    <script src="js/greeting.js"></script>
+    <script src="js/clock.js"></script>
+    <script src="js/quotes.js"></script>
+    <script src="js/todo.js"></script>
+    <script src="js/interation.js"></script>
+  </body>
+</html>
