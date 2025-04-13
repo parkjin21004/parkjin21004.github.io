@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d3384b8.css",
+    "main.js": "/static/js/main.deadd5e3.js",
+    "static/media/interstellar-bg.png": "/static/media/interstellar-bg.a5b797da80f862e1e225.png",
+    "static/media/Castoro-Italic.woff": "/static/media/Castoro-Italic.d42e8e3489c09c604ade.woff",
+    "static/media/Castoro-Regular.woff": "/static/media/Castoro-Regular.807ac67adb310c5cd500.woff",
+    "static/media/Castoro-Italic.woff2": "/static/media/Castoro-Italic.c073c10a55605b9d20b0.woff2",
+    "static/media/Castoro-Regular.woff2": "/static/media/Castoro-Regular.3382ccc146d03b341f2a.woff2",
+    "static/media/Gilroy-Light.woff": "/static/media/Gilroy-Light.824aaaa498fa9d2fa16a.woff",
+    "static/media/Gilroy-ExtraBold.woff": "/static/media/Gilroy-ExtraBold.fe5797a7d98b044dfa63.woff",
+    "static/media/ChronicleDisplay-LightItalic.woff": "/static/media/ChronicleDisplay-LightItalic.95551bf4515a88218057.woff",
+    "static/media/Gilroy-Light.woff2": "/static/media/Gilroy-Light.fa6cd910b36fff5de1bf.woff2",
+    "static/media/ChronicleDisplay-Semi.woff": "/static/media/ChronicleDisplay-Semi.d57ecfbeac768363ea9c.woff",
+    "static/media/Gilroy-ExtraBold.woff2": "/static/media/Gilroy-ExtraBold.debf386a79f4cd2b22bf.woff2",
+    "static/media/ChronicleDisplay-Black.woff": "/static/media/ChronicleDisplay-Black.e2b0f96296f280173dca.woff",
+    "static/media/ChronicleDisplay-Roman.woff": "/static/media/ChronicleDisplay-Roman.7dcf0f95e0e9ef3ae962.woff",
+    "static/media/ChronicleDisplay-LightItalic.woff2": "/static/media/ChronicleDisplay-LightItalic.8052027d52226873a970.woff2",
+    "static/media/ChronicleDisplay-Black.woff2": "/static/media/ChronicleDisplay-Black.b52a8ea8995353654cb8.woff2",
+    "static/media/ChronicleDisplay-Roman.woff2": "/static/media/ChronicleDisplay-Roman.723c2571a911c03ecdd5.woff2",
+    "index.html": "/index.html",
+    "static/media/arrow_down_24px.svg": "/static/media/arrow_down_24px.a26dad3e2b1bce14a79fe4618c80f684.svg",
+    "main.7d3384b8.css.map": "/static/css/main.7d3384b8.css.map",
+    "main.deadd5e3.js.map": "/static/js/main.deadd5e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d3384b8.css",
+    "static/js/main.deadd5e3.js"
+  ]
+}
