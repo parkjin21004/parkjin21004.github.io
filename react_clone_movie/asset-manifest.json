@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_clone_movie/static/css/main.1ab5593c.css",
-    "main.js": "/react_clone_movie/static/js/main.8d1ace5f.js",
+    "main.js": "/react_clone_movie/static/js/main.2e92e604.js",
     "static/media/interstellar-bg.png": "/react_clone_movie/static/media/interstellar-bg.a5b797da80f862e1e225.png",
     "static/media/Castoro-Italic.woff": "/react_clone_movie/static/media/Castoro-Italic.d42e8e3489c09c604ade.woff",
     "static/media/Castoro-Regular.woff": "/react_clone_movie/static/media/Castoro-Regular.807ac67adb310c5cd500.woff",
@@ -21,10 +21,10 @@
     "index.html": "/react_clone_movie/index.html",
     "static/media/arrow_down_24px.svg": "/react_clone_movie/static/media/arrow_down_24px.a26dad3e2b1bce14a79fe4618c80f684.svg",
     "main.1ab5593c.css.map": "/react_clone_movie/static/css/main.1ab5593c.css.map",
-    "main.8d1ace5f.js.map": "/react_clone_movie/static/js/main.8d1ace5f.js.map"
+    "main.2e92e604.js.map": "/react_clone_movie/static/js/main.2e92e604.js.map"
   },
   "entrypoints": [
     "static/css/main.1ab5593c.css",
-    "static/js/main.8d1ace5f.js"
+    "static/js/main.2e92e604.js"
   ]
 }
