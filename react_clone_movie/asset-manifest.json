@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_clone_movie/static/css/main.1ab5593c.css",
-    "main.js": "/react_clone_movie/static/js/main.2e92e604.js",
+    "main.css": "/react_clone_movie/static/css/main.84ea8976.css",
+    "main.js": "/react_clone_movie/static/js/main.3058ea0c.js",
     "static/media/interstellar-bg.png": "/react_clone_movie/static/media/interstellar-bg.a5b797da80f862e1e225.png",
     "static/media/Castoro-Italic.woff": "/react_clone_movie/static/media/Castoro-Italic.d42e8e3489c09c604ade.woff",
     "static/media/Castoro-Regular.woff": "/react_clone_movie/static/media/Castoro-Regular.807ac67adb310c5cd500.woff",
@@ -18,13 +18,14 @@
     "static/media/ChronicleDisplay-LightItalic.woff2": "/react_clone_movie/static/media/ChronicleDisplay-LightItalic.8052027d52226873a970.woff2",
     "static/media/ChronicleDisplay-Black.woff2": "/react_clone_movie/static/media/ChronicleDisplay-Black.b52a8ea8995353654cb8.woff2",
     "static/media/ChronicleDisplay-Roman.woff2": "/react_clone_movie/static/media/ChronicleDisplay-Roman.723c2571a911c03ecdd5.woff2",
+    "static/media/github.svg": "/react_clone_movie/static/media/github.d83c2e4be468277afb80994db8fa9092.svg",
     "index.html": "/react_clone_movie/index.html",
     "static/media/arrow_down_24px.svg": "/react_clone_movie/static/media/arrow_down_24px.a26dad3e2b1bce14a79fe4618c80f684.svg",
-    "main.1ab5593c.css.map": "/react_clone_movie/static/css/main.1ab5593c.css.map",
-    "main.2e92e604.js.map": "/react_clone_movie/static/js/main.2e92e604.js.map"
+    "main.84ea8976.css.map": "/react_clone_movie/static/css/main.84ea8976.css.map",
+    "main.3058ea0c.js.map": "/react_clone_movie/static/js/main.3058ea0c.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ab5593c.css",
-    "static/js/main.2e92e604.js"
+    "static/css/main.84ea8976.css",
+    "static/js/main.3058ea0c.js"
   ]
 }
