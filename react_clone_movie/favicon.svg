@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><style>
+    #light-icon {
+      display: inline;
+    }
+    #dark-icon {
+      display: none;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      #light-icon {
+        display: none;
+      }
+      #dark-icon {
+        display: inline;
+      }
+    }
+  </style><g id="light-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g><g transform="matrix(41.666666666666664,0,0,41.666666666666664,0,145.83333333333337)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="17"><svg width="24" height="17" viewBox="0 0 24 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.672 17V16.664C2.928 16.4 3.648 15.32 3.648 12.872V3.128C3.648 1.688 2.736 0.631999 0.672 0.584V0.271999H7.992L12.744 12.128H12.864L17.112 0.271999H23.64V0.584C21.696 0.655999 21.24 0.991999 21.24 1.832V15.44C21.24 16.28 21.696 16.592 23.64 16.664V17H15.024V16.664C16.512 16.592 17.256 16.328 17.256 15.44V1.952H17.136L11.712 17H10.608L4.392 1.952H4.248V12.872C4.248 15.32 5.064 16.376 7.44 16.664V17H0.672Z" fill="black"></path>
+</svg></svg></g></g></svg></g><g id="dark-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g><g transform="matrix(41.666666666666664,0,0,41.666666666666664,0,145.83333333333337)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="17"><svg width="24" height="17" viewBox="0 0 24 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.672 17V16.664C2.928 16.4 3.648 15.32 3.648 12.872V3.128C3.648 1.688 2.736 0.631999 0.672 0.584V0.271999H7.992L12.744 12.128H12.864L17.112 0.271999H23.64V0.584C21.696 0.655999 21.24 0.991999 21.24 1.832V15.44C21.24 16.28 21.696 16.592 23.64 16.664V17H15.024V16.664C16.512 16.592 17.256 16.328 17.256 15.44V1.952H17.136L11.712 17H10.608L4.392 1.952H4.248V12.872C4.248 15.32 5.064 16.376 7.44 16.664V17H0.672Z" fill="white"></path>
+</svg></svg></g></g></svg></g></svg>
